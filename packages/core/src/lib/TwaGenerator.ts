@@ -37,6 +37,7 @@ const COPY_FILE_LIST = [
   'app/src/main/res/xml/shortcuts.xml',
   'app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml',
   'app/src/main/res/drawable-anydpi/shortcut_legacy_background.xml',
+  'app/libs/androidbrowserhelper-release.aar',
 ];
 
 const TEMPLATE_FILE_LIST = [
